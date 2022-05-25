@@ -1,0 +1,5 @@
+train: /home/shaun/Desktop/vigilereboot/yolov5/vigile/train/images
+val: /home/shaun/Desktop/vigilereboot/yolov5/vigile/valid/images
+
+nc: 1
+names: ['gun']
